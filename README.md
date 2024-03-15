@@ -124,7 +124,3 @@ Once installed, you can start using eSim by following its documentation and tuto
 ## Contributing
 
 If you encounter any issues with the installation process or have suggestions for improvements, feel free to open an issue or submit a pull request to this repository.
-
-## License
-
-This installation guide is provided under the [MIT License](LICENSE).
